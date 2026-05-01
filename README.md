@@ -16,7 +16,7 @@ Docker支持：一键部署，环境隔离
 
 环境要求
 Python 3.10+
-智谱AI API Key（或其他兼容OpenAI的LLM服务）
+
 
 安装依赖
 pip install -r requirements.txt
