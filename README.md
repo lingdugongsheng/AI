@@ -112,19 +112,3 @@ chunk_size: 文档分块大小 (默认: 500)
 chunk_overlap: 分块重叠 (默认: 100)
 top_k: 检索文档数量 (默认: 3)
 
-🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-Fork 本项目
-创建特性分支 (git checkout -b feature/AmazingFeature)
-提交更改 (git commit -m 'Add some AmazingFeature')
-推送到分支 (git push origin feature/AmazingFeature)
-创建 Pull Request
-
-📄 许可证
-
-本项目采用 MIT 许可证 - 详情请查看 LICENSE 文件。
-
-注意: 请勿在公共仓库中提交真实的 API Key。使用 .env 文件并将其添加到 .gitignore 中。
-
-Happy Coding! 🚀
